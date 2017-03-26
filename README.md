@@ -368,7 +368,7 @@ To exemplify this, let's create a static method (also sometimes refered to as a 
 
 ```js
 // starter code
-Flower.prototype.crossPollinate = function(/* what parameters are needed? */){
+Flower.crossPollinate = function(/* what parameters are needed? */){
   var newFlower;
   // set up and make the newFlower!
   return newFlower;
